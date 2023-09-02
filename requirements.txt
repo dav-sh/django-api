@@ -1,3 +1,5 @@
 django==4.0
 djangorestframework
-#rapid api clietn
+#rapid api client
+requests
+#requets is a module to make simple requests
